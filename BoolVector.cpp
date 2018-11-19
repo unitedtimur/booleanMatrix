@@ -1,6 +1,6 @@
 /*
 *
-* by UnitedTimur (c)
+* by UnitedTimur (c) 2018
 *
 */
 
