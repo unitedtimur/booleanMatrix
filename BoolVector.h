@@ -1,3 +1,9 @@
+/*
+*
+* by UnitedTimur (c) 2018
+*
+*/
+
 #pragma once
 #include <iostream>
 
